@@ -48,7 +48,7 @@ Praticar fundamentos sólidos de HTML e CSS, reforçando conceitos essenciais pa
 
 ## 📂 Como Executar o Projeto
 
-1. Clone este repositório: https://github.com/Matheuste-tech/pagina-de-receita.git   
+1. Clone este repositório: https://github.com/Matheusoliveira06/pagina-de-receita.git   
 2. Abra o arquivo `index.html` no navegador.
 
 ---
